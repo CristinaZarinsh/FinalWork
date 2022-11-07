@@ -30,3 +30,5 @@ for (int i = 0; i < size; i++)
 }
 
 string[] arrayFinal = new string[size];
+int length = 3;
+int count = 0;
