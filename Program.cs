@@ -41,3 +41,5 @@ for (int i = 0; i < size; i++)
         count++;
     }
 }
+Console.WriteLine();
+PrintArray(arrayFinal);
